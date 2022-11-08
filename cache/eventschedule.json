@@ -1,0 +1,85 @@
+{
+    "eventlist": [
+        {
+            "colordark": "#008080",
+            "colorlight": "#008B8B",
+            "description": "Double Bestiary!",
+            "displaypriority": 1,
+            "enddate": 1659844740,
+            "isseasonal": false,
+            "name": "Double Bestiary",
+            "startdate": 1659754860
+        },
+        {
+            "colordark": "#0B2161",
+            "colorlight": "#0B2161",
+            "description": "Zoralurk invadindo na arena boss às 20 horas!",
+            "displaypriority": 2,
+            "enddate": 1659841260,
+            "isseasonal": false,
+            "name": "Zoralurk",
+            "startdate": 1659841140
+        },
+        {
+            "colordark": "#B22222",
+            "colorlight": "#FA8072",
+            "description": "Isso mesmo, o drop de Slivers será dobrado!",
+            "displaypriority": 3,
+            "enddate": 1660449540,
+            "isseasonal": false,
+            "name": "Double Slivers",
+            "startdate": 1660363140
+        },
+        {
+            "colordark": "#7B68EE",
+            "colorlight": "#9370DB",
+            "description": "A invasão mais esperada, para aquecer seu sábado!.",
+            "displaypriority": 4,
+            "enddate": 1660446060,
+            "isseasonal": false,
+            "name": "Invasão Ferumbras",
+            "startdate": 1660445940
+        },
+        {
+            "colordark": "#FF0040",
+            "colorlight": "#FF0000",
+            "description": "Pvp aberto sem perder lvl, skills e items!",
+            "displaypriority": 5,
+            "enddate": 1661054401,
+            "isseasonal": false,
+            "name": "Dia de Crimes!",
+            "startdate": 1660968001
+        },
+        {
+            "colordark": "#FFFF00",
+            "colorlight": "#FFFF00",
+            "description": "Battlefield event!",
+            "displaypriority": 6,
+            "enddate": 1661054340,
+            "isseasonal": false,
+            "name": "Battlefield",
+            "startdate": 1661054340
+        },
+        {
+            "colordark": "#0B2161",
+            "colorlight": "#0000FF",
+            "description": "Double loot!",
+            "displaypriority": 7,
+            "enddate": 1661659140,
+            "isseasonal": false,
+            "name": "Double loot!",
+            "startdate": 1661572740
+        },
+        {
+            "colordark": "#F8F8FF",
+            "colorlight": "#F8F8FF",
+            "description": "Gaz'Haragoth às 20 horas! ",
+            "displaypriority": 8,
+            "enddate": 1661659201,
+            "isseasonal": false,
+            "name": "Gaz'Haragoth!",
+            "startdate": 1661659140
+        }
+    ],
+    "lastupdatetimestamp": 1667683287
+}
