@@ -7,13 +7,13 @@
     },
     "clientOptionsVersion": 6,
     "clientWindowOptions": {
-        "clientWindowHeight": 600,
+        "clientWindowHeight": 650,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 560,
+        "clientWindowPositionX": 881,
         "clientWindowPositionY": 220,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
-        "clientWindowWidth": 800
+        "clientWindowWidth": 1020
     },
     "controlButtonsOptions": {
         "disabledButtons": [
@@ -41,7 +41,9 @@
             "lenshelpFunction",
             "highscoresDialog",
             "bosstiaryDialog",
-            "bossslotsDialog"
+            "bossslotsDialog",
+            "skillWheelDialog",
+            "imbuementTrackerWidget"
         ]
     },
     "hotkeyOptions": {
@@ -2999,8 +3001,8 @@
         "creatureShowName": true,
         "dragAndDropDefaultActionIsMoveAll": true,
         "emergencyDialogVersion": 0,
-        "frameRateLimit": 200,
-        "frameRateLimitEnabled": true,
+        "frameRateLimit": 60,
+        "frameRateLimitEnabled": false,
         "gameWindowScaleOnlyByEvenMultiples": false,
         "gameWindowShowBoostedCreatureMessages": true,
         "gameWindowShowHotkeyUsageMessages": true,
@@ -3023,8 +3025,8 @@
         "lightEffectsEnabled": false,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
-        "loginEmailAddress": "redaple1334",
-        "lootSchemeIndex": 0,
+        "loginEmailAddress": "macacoo",
+        "lootSchemeIndex": 1,
         "mapWindowHeight": 794,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
@@ -3059,6 +3061,7 @@
         "screenshotsBossKillEnabled": false,
         "screenshotsDeathPvEEnabled": true,
         "screenshotsDeathPvPEnabled": true,
+        "screenshotsGiftOfLifeEnabled": true,
         "screenshotsLevelUpEnabled": true,
         "screenshotsLowHitPointsEnabled": false,
         "screenshotsNewMaxDamageEnabled": false,
@@ -3078,7 +3081,7 @@
         "showExpireInInventory": true,
         "showExpireWhenUnused": true,
         "soundAmbienceVolume": 100,
-        "soundAnthemEnabled": true,
+        "soundAnthemEnabled": false,
         "soundBattleCreaturesAttacksEnabled": true,
         "soundBattleCreaturesDeathEnabled": true,
         "soundBattleCreaturesNoisesEnabled": true,
@@ -3098,8 +3101,8 @@
         "soundEatingEnabled": true,
         "soundEventsVolume": 100,
         "soundItemsVolume": 100,
-        "soundMasterVolume": 100,
-        "soundMasterVolumeOld": 100,
+        "soundMasterVolume": 5,
+        "soundMasterVolumeOld": 5,
         "soundMoveItemEnabled": true,
         "soundMusicVolume": 50,
         "soundPartyEnabled": true,
@@ -3111,13 +3114,13 @@
         "statusPanelEnabled": false,
         "storeAskBeforeBuyingProducts": true,
         "tournamentButtonLastHighlightDateTime": 0,
-        "vSyncEnabled": false
+        "vSyncEnabled": true
     },
     "pinnedCharacters": [
     ],
     "rendererChangeConfirmationRequired": false,
     "survey": {
-        "id": 0,
+        "id": 335467,
         "status": 2
     },
     "whiteBlacklistOptions": {

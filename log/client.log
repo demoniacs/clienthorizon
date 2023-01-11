@@ -1,3 +1,270 @@
 [ 2022-07-19 20:03:58,315 ] Asset loading complete
 [ 2022-07-26 22:27:06,883 ] Asset loading complete
 [ 2022-07-27 22:33:43,790 ] Asset loading complete
+[ 2022-11-11 15:44:28,102 ] Using spritesheet cache size of 910
+[ 2022-11-11 15:44:28,757 ] Asset loading complete
+[ 2022-11-11 15:44:31,424 ] All sound assets loaded
+[ 2022-11-11 15:44:46,919 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 15:44:46,972 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Four Seasons" )
+[ 2022-11-11 15:44:46,972 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Thyria"
+[ 2022-11-11 15:44:47,026 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Thyria"
+[ 2022-11-11 15:44:48,022 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Thyria"
+[ 2022-11-11 15:44:48,608 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Thyria" established
+[ 2022-11-11 15:44:50,922 ] BattlEye: "Server computed GUID: 2a8c251ec04bd27e4da0073bc26a40f7"
+[ 2022-11-11 15:48:25,086 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Thyria"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 15:48:25,086 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Thyria"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 15:48:25,137 ] Disconnected from gameserver
+[ 2022-11-11 15:48:53,928 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 15:48:53,984 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-11-11 15:48:53,985 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-11 15:48:54,028 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-11 15:48:55,088 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-11 15:48:55,386 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-11-11 15:48:57,924 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-11-11 15:50:24,833 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 15:50:24,833 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-11 15:50:24,888 ] Disconnected from gameserver
+[ 2022-11-11 15:50:25,099 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-11-11 15:50:31,439 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-11 15:50:31,490 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171"  (unprotected:  "tcp://prod-lb-sa.tibia.com:7171" )  requested (Charakter "Bank Platina" )
+[ 2022-11-11 15:50:31,490 ] Request connection to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Libertabra"
+[ 2022-11-11 15:50:31,541 ] Connected to gameserver  "tcp://prod-cf-sa.tibia.com:7171" "Libertabra"
+[ 2022-11-11 15:50:31,975 ] Request connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Libertabra"
+[ 2022-11-11 15:50:32,216 ] Backup connection to gameserver  "tcp://prod-lb-sa.tibia.com:7171" "Libertabra" established
+[ 2022-11-11 15:50:32,458 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-11-11 15:50:35,478 ] BattlEye: "Server computed GUID: 3d24d0939c1b981461975c948c4634fa"
+[ 2022-11-28 15:28:33,890 ] QWindowsWindow::setGeometry: Unable to set geometry 800x600+560+220 (frame: 816x639+552+189) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1020x650+560+220 (frame: 1036x689+552+189) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2022-11-28 15:28:33,894 ] Using spritesheet cache size of 910
+[ 2022-11-28 15:28:34,561 ] Asset loading complete
+[ 2022-11-28 15:28:37,323 ] All sound assets loaded
+[ 2022-11-29 14:12:48,467 ] QWindowsWindow::setGeometry: Unable to set geometry 800x600+560+220 (frame: 816x639+552+189) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1020x650+560+220 (frame: 1036x689+552+189) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2022-11-29 14:12:48,471 ] Using spritesheet cache size of 910
+[ 2022-11-29 14:12:49,104 ] All sound assets loaded
+[ 2022-11-29 14:12:49,993 ] Asset loading complete
+[ 2022-11-29 14:12:52,441 ] All sound assets loaded
+[ 2022-11-29 14:13:51,780 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-29 14:13:51,844 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-11-29 14:13:51,844 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 14:13:51,885 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 14:13:52,922 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 14:13:53,253 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-11-29 14:13:56,791 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-11-29 15:06:15,622 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-29 15:06:15,622 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-29 15:06:15,730 ] Disconnected from gameserver
+[ 2022-11-29 15:09:07,078 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-29 15:09:07,150 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-11-29 15:09:07,151 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 15:09:07,190 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 15:09:08,193 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 15:09:08,492 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-11-29 15:09:12,112 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-11-29 16:06:59,609 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-29 16:06:59,658 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-29 16:06:59,721 ] Disconnected from gameserver
+[ 2022-11-29 16:44:36,174 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-11-29 16:44:37,347 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-29 16:44:37,419 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-11-29 16:44:37,419 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 16:44:37,460 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 16:44:38,377 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-11-29 16:44:38,428 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 16:44:38,761 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-11-29 17:24:55,699 ] QWindowsWindow::setGeometry: Unable to set geometry 800x600+560+220 (frame: 816x639+552+189) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1020x650+560+220 (frame: 1036x689+552+189) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2022-11-29 17:24:55,701 ] Using spritesheet cache size of 910
+[ 2022-11-29 17:24:57,283 ] Asset loading complete
+[ 2022-11-29 17:25:00,127 ] All sound assets loaded
+[ 2022-11-29 17:25:21,317 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-29 17:25:21,377 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-11-29 17:25:21,377 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 17:25:21,439 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 17:25:22,758 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 17:25:23,090 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-11-29 17:25:26,327 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-11-29 17:53:55,694 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-29 17:53:55,694 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-29 17:53:55,772 ] Disconnected from gameserver
+[ 2022-11-29 17:58:22,911 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-29 17:58:22,984 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-11-29 17:58:22,984 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 17:58:23,018 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 17:58:23,951 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-11-29 17:58:23,987 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 17:58:24,319 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-11-29 17:58:26,921 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-11-29 19:30:19,693 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-29 19:30:19,693 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-11-29 19:30:19,770 ] Disconnected from gameserver
+[ 2022-11-29 19:43:40,344 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-11-29 19:43:41,216 ] BattlEye: "Initialized (v1.246)"
+[ 2022-11-29 19:43:41,298 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-11-29 19:43:41,298 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 19:43:41,328 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 19:43:42,246 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-11-29 19:43:42,381 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-11-29 19:43:42,713 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-11-29 19:43:45,233 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 10:25:07,247 ] QWindowsWindow::setGeometry: Unable to set geometry 800x600+560+220 (frame: 816x639+552+189) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1020x650+560+220 (frame: 1036x689+552+189) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2022-12-01 10:25:07,252 ] Using spritesheet cache size of 910
+[ 2022-12-01 10:25:08,872 ] Asset loading complete
+[ 2022-12-01 10:25:11,408 ] All sound assets loaded
+[ 2022-12-01 10:25:50,375 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 10:25:50,439 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 10:25:50,439 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 10:25:50,479 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 10:25:51,549 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 10:25:52,053 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 10:25:54,383 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 10:42:10,906 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 10:42:10,906 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 10:42:10,977 ] Disconnected from gameserver
+[ 2022-12-01 11:53:11,078 ] QWindowsWindow::setGeometry: Unable to set geometry 800x600+560+220 (frame: 816x639+552+189) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1020x650+560+220 (frame: 1036x689+552+189) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2022-12-01 11:53:11,081 ] Using spritesheet cache size of 910
+[ 2022-12-01 11:53:13,018 ] Asset loading complete
+[ 2022-12-01 11:53:14,689 ] All sound assets loaded
+[ 2022-12-01 11:53:43,509 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 11:53:43,570 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171"  (unprotected:  "tcp://prod-lb-na.tibia.com:7171" )  requested (Charakter "Aline Moura" )
+[ 2022-12-01 11:53:43,570 ] Request connection to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Astera"
+[ 2022-12-01 11:53:43,605 ] Connected to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Astera"
+[ 2022-12-01 11:53:44,407 ] Request connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Astera"
+[ 2022-12-01 11:53:44,675 ] Backup connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Astera" established
+[ 2022-12-01 11:53:47,525 ] BattlEye: "Server computed GUID: 5944c31731e85476b4f70213eda555b8"
+[ 2022-12-01 11:53:48,126 ] Connection to gameserver  "tcp://prod-cf-na.tibia.com:7171" "Astera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 11:53:48,126 ] Connection to gameserver  "tcp://prod-lb-na.tibia.com:7171" "Astera"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 11:53:48,194 ] Disconnected from gameserver
+[ 2022-12-01 11:53:50,749 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 11:53:50,812 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 11:53:50,812 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 11:53:50,846 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 11:53:51,763 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 11:53:51,815 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 11:53:52,147 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 11:53:54,751 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 12:10:41,923 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 12:10:41,923 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 12:10:41,995 ] Disconnected from gameserver
+[ 2022-12-01 14:03:32,551 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 14:03:33,577 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 14:03:33,645 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 14:03:33,645 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 14:03:33,725 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 14:03:34,603 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 14:03:34,638 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 14:03:34,970 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 14:03:37,590 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 14:20:13,918 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 14:20:13,918 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 14:20:14,002 ] Disconnected from gameserver
+[ 2022-12-01 14:59:58,166 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 14:59:59,089 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 14:59:59,153 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 14:59:59,153 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 14:59:59,184 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 15:00:00,119 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 15:00:00,253 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 15:00:00,568 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 15:00:03,105 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 15:33:13,927 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 15:33:13,927 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 15:33:14,004 ] Disconnected from gameserver
+[ 2022-12-01 15:40:28,465 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 15:40:29,511 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 15:40:29,581 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 15:40:29,581 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 15:40:29,616 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 15:40:30,533 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 15:40:30,635 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 15:40:30,950 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 15:40:33,537 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 15:51:56,853 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 15:51:57,853 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 15:51:57,921 ] Backup connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 15:52:17,353 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 15:52:18,353 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 15:52:18,466 ] Backup connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 15:56:31,953 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 15:56:31,953 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 15:56:32,019 ] Disconnected from gameserver
+[ 2022-12-01 16:18:40,680 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 16:18:41,800 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 16:18:41,886 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 16:18:41,886 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 16:18:41,931 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 16:18:42,832 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 16:18:42,885 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 16:18:43,216 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 16:18:45,802 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 16:34:43,973 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 16:34:43,973 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 16:34:44,049 ] Disconnected from gameserver
+[ 2022-12-01 17:15:03,460 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 17:15:05,283 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 17:15:05,349 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 17:15:05,349 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 17:15:05,395 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 17:15:06,313 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 17:15:06,431 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 17:15:06,731 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 17:15:09,283 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 17:31:07,953 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 17:31:07,953 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 17:31:08,029 ] Disconnected from gameserver
+[ 2022-12-01 19:09:12,946 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 19:09:15,066 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 19:09:15,176 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 19:09:15,176 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 19:09:15,215 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 19:09:16,099 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 19:09:16,217 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 19:09:16,515 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 19:09:19,068 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2022-12-01 19:25:17,953 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 19:25:17,953 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2022-12-01 19:25:18,037 ] Disconnected from gameserver
+[ 2022-12-01 19:43:53,310 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 19:43:54,668 ] BattlEye: "Initialized (v1.246)"
+[ 2022-12-01 19:43:54,763 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2022-12-01 19:43:54,764 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 19:43:54,795 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 19:43:55,696 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://www.tibia.com/clientservices/clientservices.php") ) due to too many retries.
+[ 2022-12-01 19:43:55,847 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2022-12-01 19:43:56,162 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2022-12-01 19:43:58,683 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2023-01-07 14:36:47,000 ] QWindowsWindow::setGeometry: Unable to set geometry 800x600+560+220 (frame: 816x639+552+189) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1020x650+560+220 (frame: 1036x689+552+189) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-01-07 14:36:47,002 ] Using spritesheet cache size of 910
+[ 2023-01-07 14:36:48,552 ] Asset loading complete
+[ 2023-01-07 14:36:50,756 ] All sound assets loaded
+[ 2023-01-07 14:37:22,661 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-07 14:37:22,719 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2023-01-07 14:37:22,719 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 14:37:22,752 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 14:37:23,738 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 14:37:24,020 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2023-01-07 14:37:26,657 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2023-01-07 15:12:53,075 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-07 15:12:53,075 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-07 15:12:53,148 ] Disconnected from gameserver
+[ 2023-01-07 15:14:12,409 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-07 15:14:12,477 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2023-01-07 15:14:12,477 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 15:14:12,588 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 15:14:13,498 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 15:14:13,824 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2023-01-07 15:14:16,416 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2023-01-07 15:46:07,084 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-07 15:46:07,084 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-07 15:46:07,161 ] Disconnected from gameserver
+[ 2023-01-07 16:23:23,522 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-07 16:23:23,587 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171"  (unprotected:  "tcp://prod-lb-eu.tibia.com:7171" )  requested (Charakter "Mass Mag" )
+[ 2023-01-07 16:23:23,587 ] Request connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 16:23:23,678 ] Connected to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 16:23:24,662 ] Request connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"
+[ 2023-01-07 16:23:24,956 ] Backup connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia" established
+[ 2023-01-07 16:23:28,528 ] BattlEye: "Server computed GUID: 93f8442571a6df4944c45f5a561455a2"
+[ 2023-01-07 16:39:26,080 ] Connection to gameserver  "tcp://prod-cf-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-07 16:39:26,081 ] Connection to gameserver  "tcp://prod-lb-eu.tibia.com:7171" "Harmonia"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-07 16:39:26,178 ] Disconnected from gameserver
+[ 2023-01-08 23:42:17,918 ] QWindowsWindow::setGeometry: Unable to set geometry 800x600+560+220 (frame: 816x639+552+189) on QQuickWindowQmlImpl_QML_10/"" on "\\.\DISPLAY1". Resulting geometry: 1020x650+560+220 (frame: 1036x689+552+189) margins: 8, 31, 8, 8 minimum size: 1020x650 MINMAXINFO maxSize=0,0 maxpos=0,0 mintrack=1036,689 maxtrack=0,0)
+[ 2023-01-08 23:42:17,922 ] Using spritesheet cache size of 910
+[ 2023-01-08 23:42:19,421 ] Asset loading complete
+[ 2023-01-08 23:42:21,759 ] All sound assets loaded

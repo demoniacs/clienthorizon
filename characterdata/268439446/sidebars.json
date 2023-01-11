@@ -59,6 +59,14 @@
         "contentHeight": 0,
         "contentMaximized": true
     },
+    "imbuementTrackerWidgetOptions": {
+        "contentHeight": 0,
+        "contentMaximized": true,
+        "showAlmostGone": true,
+        "showAlmostNew": true,
+        "showEmptySlots": true,
+        "showUsed": true
+    },
     "impactAnalyserWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true
@@ -99,8 +107,8 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": false,
-        "combatMode": 1,
+        "chaseModeEnabled": true,
+        "combatMode": 2,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
@@ -112,10 +120,6 @@
                 {
                     "instance": 0,
                     "type": "battleList"
-                },
-                {
-                    "instance": 1,
-                    "type": "container"
                 }
             ]
         ]

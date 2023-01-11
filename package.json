@@ -1,5 +1,5 @@
 {
-  "version": "13.05.12715",
+  "version": "13.10.12892",
   "files": [
     {
       "url": "bin/Qt5Network.dll.lzma",
@@ -44,10 +44,10 @@
     {
       "url": "bin/client.en.qm.lzma",
       "localfile": "bin/client.en.qm",
-      "packedhash": "115ac8afcfc64b7493012c7b68fdb2e9ccb841f4a5fe5ac8b582fd1f2d561b4a",
-      "packedsize": 104855,
-      "unpackedhash": "cdb07eb5253884cdd0d2291d3550a22fe8e1a9c8e6dbd4399f9b113f58d70c5a",
-      "unpackedsize": 564006
+      "packedhash": "2a4b6cd6048b0894852b8cd1ad949dfa80e9344f0db7228befb7dbb8d9b24e3f",
+      "packedsize": 110432,
+      "unpackedhash": "86803b828c28d6ff014ca47bca7e7a0463a7bf4ff539d1741aca0ce349bba734",
+      "unpackedsize": 595683
     },
     {
       "url": "bin/msvcr120.dll.lzma",
@@ -68,10 +68,10 @@
     {
       "url": "bin/graphics_resources.rcc.lzma",
       "localfile": "bin/graphics_resources.rcc",
-      "packedhash": "24abdddb8d44d296ada6e24e269e255a68c33ebbf5dc51e0837ea44d13352054",
-      "packedsize": 3613423,
-      "unpackedhash": "fa1f2d151238ef400483a7e609c4cfae8ae9ace3d1994d40b6284746cb6a0bfc",
-      "unpackedsize": 3997545
+      "packedhash": "637ef4c23267d7ccf364b64080b0d96548a98191b596920b3ebad7400c31872e",
+      "packedsize": 4411441,
+      "unpackedhash": "e3b5b373c086557a7e9f9a9f9ef29aeba2218a097c541f5432714ea0d09b6189",
+      "unpackedsize": 4791123
     },
     {
       "url": "bin/Qt5Core.dll.lzma",
@@ -108,10 +108,10 @@
     {
       "url": "bin/client.exe.lzma",
       "localfile": "bin/client.exe",
-      "packedhash": "859dacc41debc23e91bcf4edd5a998e81bd5e67d1b7f4fdbb4941122758d7301",
-      "packedsize": 3640954,
-      "unpackedhash": "a44706889701bb7cc004636749f79ae1668b5d3982d42a8eabee77483df2f3d3",
-      "unpackedsize": 17949456
+      "packedhash": "7256297579178d440b46062449f5ee02c671ab0aa2ce23f0f7740cba64e7acc6",
+      "packedsize": 3736049,
+      "unpackedhash": "ab3676d4b26e902ba3edc4f0b0ab0fe8e68d5cb7efaee4513f488d275ecad4d9",
+      "unpackedsize": 18471696
     },
     {
       "url": "bin/client_launcher.exe.lzma",
@@ -125,9 +125,9 @@
     {
       "url": "bin/OpenAL32.dll.lzma",
       "localfile": "bin/OpenAL32.dll",
-      "packedhash": "e38579eba79686ff650d22fabf779928569bcd4d5c5e7a71e161c15fbaeaa554",
-      "packedsize": 467214,
-      "unpackedhash": "7fb37e419fa6ed4279923d7db0a2fee3c189ff629ae1a0b7293c865f1abc95e9",
+      "packedhash": "b9cdafbdcef8a401531a3970d6d24f9c8b4690db41eb7210e8a7f6737f749cb2",
+      "packedsize": 467170,
+      "unpackedhash": "8c607f04db81ff2d1272a6d73886bf898e6614775579877880e478f2c7f951e4",
       "unpackedsize": 1686288
     },
     {

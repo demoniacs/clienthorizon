@@ -34,13 +34,13 @@
         }
     },
     "bestiaryTrackerWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 38,
         "contentMaximized": true,
         "sortKey": "name",
         "sortOrder": "ascending"
     },
     "bossTrackerWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 45,
         "contentMaximized": true,
         "sortKey": "remainingCooldown"
     },
@@ -58,6 +58,14 @@
     "huntingSessionAnalyserWidgetOptions": {
         "contentHeight": 0,
         "contentMaximized": true
+    },
+    "imbuementTrackerWidgetOptions": {
+        "contentHeight": 157,
+        "contentMaximized": true,
+        "showAlmostGone": true,
+        "showAlmostNew": true,
+        "showEmptySlots": true,
+        "showUsed": true
     },
     "impactAnalyserWidgetOptions": {
         "contentHeight": 0,
@@ -112,12 +120,17 @@
                 {
                     "instance": 0,
                     "type": "battleList"
+                },
+                {
+                    "type": "imbuementTracker"
                 }
+            ],
+            [
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 121,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]
