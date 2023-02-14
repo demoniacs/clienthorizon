@@ -104,18 +104,27 @@
     },
     "sidebarPanelsMangerOptions": {
         "panelsOrder": [
+            "minimap",
+            "inventoryStatus",
+            "hitpointManabar",
+            "buttons"
         ]
     },
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
-        "combatMode": 2,
+        "combatMode": 1,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
-        "leftSidebarCount": 0,
+        "leftSidebarCount": 1,
         "openWidgetsOrderPerSidebar": [
+            [
+                {
+                    "type": "skills"
+                }
+            ],
             [
             ]
         ]

@@ -6,17 +6,18 @@
     "battleListsOptions": {
         "0": {
             "battleListFilters": [
+                "hideNPCs"
             ],
             "battleListSortOrder": [
                 "byAgeAscending",
                 "byAgeAscending"
             ],
-            "contentHeight": 38,
+            "contentHeight": 935,
             "contentMaximized": true,
             "isPartyView": false,
             "isPrimary": true,
             "name": "",
-            "showFilters": false
+            "showFilters": true
         },
         "253": {
             "battleListFilters": [
@@ -47,11 +48,11 @@
     "containersOptions": {
     },
     "damageInputAnalyserWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 50,
         "contentMaximized": true
     },
     "deoptSearchWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 307,
         "contentMaximized": true,
         "showLockerOnly": false
     },
@@ -60,7 +61,7 @@
         "contentMaximized": true
     },
     "imbuementTrackerWidgetOptions": {
-        "contentHeight": 157,
+        "contentHeight": 195,
         "contentMaximized": true,
         "showAlmostGone": true,
         "showAlmostNew": true,
@@ -68,21 +69,21 @@
         "showUsed": true
     },
     "impactAnalyserWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 93,
         "contentMaximized": true
     },
     "lootAnalyserWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 38,
         "contentMaximized": true
     },
     "lootTrackerWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 40,
         "contentMaximized": true
     },
     "npcTradeOptions": {
         "allowLargeTradesWithoutWarning": false,
         "allowSellingEquippedItems": false,
-        "contentHeight": 0,
+        "contentHeight": 494,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
@@ -91,7 +92,7 @@
         "sortFieldWhenSelling": "amount"
     },
     "partyHuntAnalyserOptions": {
-        "contentHeight": 0,
+        "contentHeight": 82,
         "contentMaximized": true
     },
     "preyWidgetOptions": {
@@ -108,29 +109,44 @@
     },
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
-        "combatMode": 2,
+        "combatMode": 1,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
-        "leftSidebarCount": 0,
+        "leftSidebarCount": 1,
         "openWidgetsOrderPerSidebar": [
             [
+                {
+                    "type": "skills"
+                }
+            ],
+            [
+                {
+                    "type": "wasteAnalyser"
+                },
+                {
+                    "type": "vip"
+                }
+            ],
+            [
+                {
+                    "type": "huntingSessionAnalyser"
+                },
                 {
                     "instance": 0,
                     "type": "battleList"
                 },
                 {
-                    "type": "imbuementTracker"
+                    "instance": 2,
+                    "type": "container"
                 }
-            ],
-            [
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 121,
+        "contentHeight": 406,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]
@@ -165,15 +181,17 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 941,
         "contentMaximized": true,
-        "hideOfflineVips": false,
+        "hideOfflineVips": true,
         "showGrouped": false,
         "vipSortOrder": [
+            "byName",
+            "byState"
         ]
     },
     "xpAnalyserWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 199,
         "contentMaximized": true
     }
 }

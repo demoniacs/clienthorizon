@@ -110,7 +110,7 @@
         "chaseModeEnabled": false,
         "combatMode": 2,
         "controlButtonsVisible": true,
-        "minimapZoomLevel": 0,
+        "minimapZoomLevel": 100,
         "minimizeInventory": false
     },
     "sidebarWidgetsMangerOptions": {
@@ -122,20 +122,25 @@
                     "type": "battleList"
                 },
                 {
-                    "instance": 3,
+                    "instance": 2,
                     "type": "container"
+                }
+            ],
+            [
+                {
+                    "type": "spellList"
                 }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 443,
+        "contentHeight": 38,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]
     },
     "spellListWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 998,
         "contentMaximized": true,
         "showAttackSpellGroup": true,
         "showDruidSpells": true,

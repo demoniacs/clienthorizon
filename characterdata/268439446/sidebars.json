@@ -4,20 +4,6 @@
         "contentMaximized": true
     },
     "battleListsOptions": {
-        "0": {
-            "battleListFilters": [
-            ],
-            "battleListSortOrder": [
-                "byAgeAscending",
-                "byAgeAscending"
-            ],
-            "contentHeight": 38,
-            "contentMaximized": true,
-            "isPartyView": false,
-            "isPrimary": true,
-            "name": "",
-            "showFilters": false
-        },
         "253": {
             "battleListFilters": [
             ],
@@ -29,6 +15,20 @@
             "contentMaximized": true,
             "isPartyView": true,
             "isPrimary": false,
+            "name": "",
+            "showFilters": false
+        },
+        "254": {
+            "battleListFilters": [
+            ],
+            "battleListSortOrder": [
+                "byAgeAscending",
+                "byAgeAscending"
+            ],
+            "contentHeight": 440,
+            "contentMaximized": true,
+            "isPartyView": false,
+            "isPrimary": true,
             "name": "",
             "showFilters": false
         }
@@ -82,7 +82,7 @@
     "npcTradeOptions": {
         "allowLargeTradesWithoutWarning": false,
         "allowSellingEquippedItems": false,
-        "contentHeight": 0,
+        "contentHeight": 408,
         "contentMaximized": true,
         "ignoreCapacityWhenBuying": false,
         "purchaseShoppingBagWhenBuying": false,
@@ -107,8 +107,8 @@
         ]
     },
     "sidebarPanelsOptions": {
-        "chaseModeEnabled": true,
-        "combatMode": 2,
+        "chaseModeEnabled": false,
+        "combatMode": 1,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
@@ -118,8 +118,8 @@
         "openWidgetsOrderPerSidebar": [
             [
                 {
-                    "instance": 0,
-                    "type": "battleList"
+                    "instance": 1,
+                    "type": "container"
                 }
             ]
         ]
@@ -160,11 +160,12 @@
         "contentMaximized": true
     },
     "vipWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 62,
         "contentMaximized": true,
         "hideOfflineVips": false,
         "showGrouped": false,
         "vipSortOrder": [
+            "byState"
         ]
     },
     "xpAnalyserWidgetOptions": {

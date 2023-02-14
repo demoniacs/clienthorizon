@@ -120,14 +120,21 @@
                 {
                     "instance": 0,
                     "type": "battleList"
+                },
+                {
+                    "instance": 2,
+                    "type": "container"
                 }
             ],
             [
+                {
+                    "type": "skills"
+                }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 524,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]

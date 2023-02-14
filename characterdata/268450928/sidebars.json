@@ -51,9 +51,9 @@
         "contentMaximized": true
     },
     "deoptSearchWidgetOptions": {
-        "contentHeight": 0,
+        "contentHeight": 392,
         "contentMaximized": true,
-        "showLockerOnly": false
+        "showLockerOnly": true
     },
     "huntingSessionAnalyserWidgetOptions": {
         "contentHeight": 0,
@@ -108,7 +108,7 @@
     },
     "sidebarPanelsOptions": {
         "chaseModeEnabled": false,
-        "combatMode": 2,
+        "combatMode": 1,
         "controlButtonsVisible": true,
         "minimapZoomLevel": 0,
         "minimizeInventory": false
@@ -122,13 +122,23 @@
                     "type": "battleList"
                 },
                 {
+                    "instance": 2,
+                    "type": "container"
+                },
+                {
+                    "instance": 1,
+                    "type": "container"
+                }
+            ],
+            [
+                {
                     "type": "skills"
                 }
             ]
         ]
     },
     "skillsWidgetOptions": {
-        "contentHeight": 38,
+        "contentHeight": 400,
         "contentMaximized": true,
         "invisibleProgressBars": [
         ]

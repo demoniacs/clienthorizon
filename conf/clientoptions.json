@@ -3,17 +3,19 @@
         "chatModeOn": true,
         "lootChannelOpen": false,
         "openChannels": [
+            7,
+            3
         ]
     },
     "clientOptionsVersion": 6,
     "clientWindowOptions": {
-        "clientWindowHeight": 600,
+        "clientWindowHeight": 650,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 560,
-        "clientWindowPositionY": 220,
+        "clientWindowPositionX": 818,
+        "clientWindowPositionY": 348,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
-        "clientWindowWidth": 800
+        "clientWindowWidth": 1020
     },
     "controlButtonsOptions": {
         "disabledButtons": [
@@ -785,16 +787,16 @@
                             "actionBar": 1,
                             "actionButton": 1,
                             "actionsetting": {
-                                "useObject": 7876,
-                                "useType": "UseOnYourself"
+                                "chatText": "/grb m Gore Horn",
+                                "sendAutomatically": true
                             }
                         },
                         {
                             "actionBar": 1,
                             "actionButton": 2,
                             "actionsetting": {
-                                "useObject": 268,
-                                "useType": "UseOnYourself"
+                                "chatText": "exori",
+                                "sendAutomatically": true
                             }
                         },
                         {
@@ -802,6 +804,126 @@
                             "actionButton": 3,
                             "actionsetting": {
                                 "chatText": "exura infir ico",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 4,
+                            "actionsetting": {
+                                "chatText": "uteta res dru",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 5,
+                            "actionsetting": {
+                                "chatText": "exori",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 6,
+                            "actionsetting": {
+                                "chatText": "exevo mas san",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 7,
+                            "actionsetting": {
+                                "chatText": "exori gran con",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 8,
+                            "actionsetting": {
+                                "chatText": "utito tempo san",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 9,
+                            "actionsetting": {
+                                "chatText": "exura gran ico",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 10,
+                            "actionsetting": {
+                                "chatText": "exori mas",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 11,
+                            "actionsetting": {
+                                "chatText": "exevo gran vis lux",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 12,
+                            "actionsetting": {
+                                "chatText": "exevo max mort",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 13,
+                            "actionsetting": {
+                                "chatText": "exevo gran mas tera",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 14,
+                            "actionsetting": {
+                                "chatText": "exevo gran mas frigo",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 15,
+                            "actionsetting": {
+                                "chatText": "exevo gran mas flam",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 16,
+                            "actionsetting": {
+                                "chatText": "exevo gran mas vis",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 17,
+                            "actionsetting": {
+                                "chatText": "utito tempo",
+                                "sendAutomatically": true
+                            }
+                        },
+                        {
+                            "actionBar": 1,
+                            "actionButton": 18,
+                            "actionsetting": {
+                                "chatText": "utamo vita",
                                 "sendAutomatically": true
                             }
                         }
@@ -2973,7 +3095,7 @@
         "actionButtonShowGraphicalCooldown": true,
         "actionButtonShowHotkey": true,
         "actionButtonShowSpellParameters": true,
-        "antialiasingMode": 2,
+        "antialiasingMode": 1,
         "autoChaseEnabled": false,
         "charTradePaymentRemindAgain": 0,
         "characterSelectionShowHidden": true,
@@ -2992,7 +3114,7 @@
         "consoleShowStatusMessagesOwn": true,
         "consoleShowTimestamps": true,
         "consoleShowTimestampsSeconds": false,
-        "controlSchemeIndex": 2,
+        "controlSchemeIndex": 0,
         "cooldownBarEnabled": true,
         "creatueShowNpcIcon": true,
         "creatureHudEnabled": true,
@@ -3026,7 +3148,7 @@
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
         "loginEmailAddress": "redaple1334",
-        "lootSchemeIndex": 0,
+        "lootSchemeIndex": 1,
         "mapWindowHeight": 794,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
@@ -3101,8 +3223,8 @@
         "soundEatingEnabled": true,
         "soundEventsVolume": 100,
         "soundItemsVolume": 100,
-        "soundMasterVolume": 5,
-        "soundMasterVolumeOld": 5,
+        "soundMasterVolume": 0,
+        "soundMasterVolumeOld": 47,
         "soundMoveItemEnabled": true,
         "soundMusicVolume": 50,
         "soundPartyEnabled": true,
@@ -3114,7 +3236,7 @@
         "statusPanelEnabled": false,
         "storeAskBeforeBuyingProducts": true,
         "tournamentButtonLastHighlightDateTime": 0,
-        "vSyncEnabled": true
+        "vSyncEnabled": false
     },
     "pinnedCharacters": [
     ],
