@@ -7,13 +7,13 @@
     },
     "clientOptionsVersion": 6,
     "clientWindowOptions": {
-        "clientWindowHeight": 650,
+        "clientWindowHeight": 600,
         "clientWindowIsBorderless": false,
         "clientWindowIsMaximized": true,
-        "clientWindowPositionX": 881,
+        "clientWindowPositionX": 560,
         "clientWindowPositionY": 220,
         "clientWindowScreenName": "\\\\.\\DISPLAY1",
-        "clientWindowWidth": 1020
+        "clientWindowWidth": 800
     },
     "controlButtonsOptions": {
         "disabledButtons": [
@@ -2973,7 +2973,7 @@
         "actionButtonShowGraphicalCooldown": true,
         "actionButtonShowHotkey": true,
         "actionButtonShowSpellParameters": true,
-        "antialiasingMode": 1,
+        "antialiasingMode": 2,
         "autoChaseEnabled": false,
         "charTradePaymentRemindAgain": 0,
         "characterSelectionShowHidden": true,
@@ -2992,7 +2992,7 @@
         "consoleShowStatusMessagesOwn": true,
         "consoleShowTimestamps": true,
         "consoleShowTimestampsSeconds": false,
-        "controlSchemeIndex": 0,
+        "controlSchemeIndex": 2,
         "cooldownBarEnabled": true,
         "creatueShowNpcIcon": true,
         "creatureHudEnabled": true,
@@ -3025,8 +3025,8 @@
         "lightEffectsEnabled": false,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
-        "loginEmailAddress": "macacoo",
-        "lootSchemeIndex": 1,
+        "loginEmailAddress": "redaple1334",
+        "lootSchemeIndex": 0,
         "mapWindowHeight": 794,
         "marketShowLockerOnly": false,
         "mouseAnimatedCursor": true,
